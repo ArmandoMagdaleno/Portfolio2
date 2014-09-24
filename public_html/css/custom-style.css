@@ -1,0 +1,30 @@
+div{
+    border-style: solid;
+    border-width: 5px;
+    border-color: hotpink;
+    padding: 30px;
+}
+
+.container{
+    border-color: red;
+}
+
+.row{
+    border-color: silver;
+}
+
+
+#techbody{
+    background-color: red;
+}
+
+#projectsbody{
+    background-color: red;
+}
+
+.list-group-item{
+    border: 0;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: red;
+}
