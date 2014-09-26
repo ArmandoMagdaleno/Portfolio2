@@ -1,11 +1,8 @@
-body{
-    text-emphasis-color: white;
-}
 div{
-    border-style: solid;
+    border-style: dotted;
     border-width: 2px;
     border-color: gold;
-    padding: 30px;
+    padding: 20px;
 }
 
 .container{
@@ -21,4 +18,16 @@ div{
     margin-top:30;
     margin-bottom: 30px;
     background-color: transparent;
+}
+
+body{
+    color: teal;
+}
+
+#projectsbody{
+    color: yellow;
+}
+
+#techbody{
+    color: black
 }
